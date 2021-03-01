@@ -15,4 +15,4 @@ Since UDP is connectionless protocol the overhead involved in UDP is less compar
 
 ![alt text](https://pythontic.com/udp-client-server.png)
 
-Graphics courtesy of [a relative link](https://pythontic.com/)
+Graphics courtesy of [pythontic.com](https://pythontic.com/)
